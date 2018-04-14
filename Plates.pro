@@ -24,8 +24,6 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 
 SOURCES += \
-        main.cpp \
-    orbittransformcontroller.cpp
+        main.cpp
 
-HEADERS += \
-    orbittransformcontroller.h
+HEADERS +=
